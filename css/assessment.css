@@ -25,7 +25,7 @@ div{
    text-align: center;
 }
 
-.grid-container {
+#mystuff {
   display: grid;
   grid-template-columns: auto auto;
   margin-left:auto; 
@@ -38,7 +38,7 @@ div{
 		padding: 60px;
 	}
 
-  .grid-container {
+  #mystuff {
     display: grid;
     grid-template-columns: auto auto auto;
     margin-left:auto; 
