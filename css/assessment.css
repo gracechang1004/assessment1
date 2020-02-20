@@ -1,7 +1,6 @@
 html{
   scroll-behavior: smooth;
   background-image: url('../images/back-ground.jpeg');
-
 }
 
 h1{
@@ -47,5 +46,5 @@ div{
 
   div:nth-child(even) {
   	border: 1px solid #000000;
-	}
+  }
 
