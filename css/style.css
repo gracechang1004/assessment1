@@ -2,6 +2,27 @@ html{
     scroll-behavior: smooth;
 }
 
+main{
+	background-image: url('../images/back-ground.jpeg');
+
+}
+header {
+
+}
+
+img{
+   width: 120px; 
+   margin-bottom: 15px; 
+   /*Your code here*/
+}
+
+div{
+   padding: 30px; 
+   margin:5px; 
+   /* YOUR CODE HERE */
+}
+
+
 body{
   background-color: #ddd;
   font-size: 18px;
